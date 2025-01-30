@@ -1,33 +1,72 @@
 {
-  "projects": [
+  "flowers": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "Mauve Magic",
+      "price": "€20.40",
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258814/fstwsun-category_hbusbf.webp",
+      "quantity": 1,
+      "description": "A beautiful bouquet of mauve flowers.",
+      "category": [
+        "christmas",
+        "valentine"
+      ]
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "name": "Sunshine Bliss",
+      "price": "€18.00",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258708/fhnydz-category_bvs5s9.webp",
+      "description": "A sunny and cheerful bouquet."
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "name": "Rose Radiance",
+      "price": "€25.50",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258816/fprfrw-category_z6hoch.webp",
+      "description": "A vibrant bouquet of red and pink roses."
+    },
+    {
+      "id": 4,
+      "name": "Lavender Dreams",
+      "price": "€22.30",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/v1234567890/flowers/lavender-dreams.jpg",
+      "description": "A calming bouquet of fresh lavender."
+    },
+    {
+      "id": 5,
+      "name": "Golden Glow",
+      "price": "€19.80",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258708/ffreir-category_a9rcg1.webp",
+      "description": "A warm mix of golden and orange flowers."
+    },
+    {
+      "id": 6,
+      "name": "Blush Bouquet",
+      "price": "€21.00",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/v1234567890/flowers/blush-bouquet.jpg",
+      "description": "A soft blend of pastel pink and white flowers."
+    },
+    {
+      "id": 7,
+      "name": "Blue Serenity",
+      "price": "€23.40",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258709/fnsc-category_qymugo.jpg",
+      "description": "A unique mix of blue and white flowers."
+    },
+    {
+      "id": 8,
+      "name": "Spring Melody",
+      "price": "€24.90",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258709/fnsc-category_qymugo.jpg",
+      "description": "A cheerful combination of spring flowers."
     }
   ]
 }
