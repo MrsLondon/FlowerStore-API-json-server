@@ -18,7 +18,11 @@
       "price": "€18.00",
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258708/fhnydz-category_bvs5s9.webp",
-      "description": "A sunny and cheerful bouquet."
+      "description": "A sunny and cheerful bouquet.",
+      "category": [
+        "christmas",
+        "valentine"
+      ]
     },
     {
       "id": 3,
@@ -26,7 +30,11 @@
       "price": "€25.50",
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258816/fprfrw-category_z6hoch.webp",
-      "description": "A vibrant bouquet of red and pink roses."
+      "description": "A vibrant bouquet of red and pink roses.",
+      "category": [
+        "christmas",
+        "valentine"
+      ]
     },
     {
       "id": 4,
@@ -34,7 +42,11 @@
       "price": "€22.30",
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/v1234567890/flowers/lavender-dreams.jpg",
-      "description": "A calming bouquet of fresh lavender."
+      "description": "A calming bouquet of fresh lavender.",
+      "category": [
+        "christmas",
+        "valentine"
+      ]
     },
     {
       "id": 5,
@@ -42,7 +54,11 @@
       "price": "€19.80",
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258708/ffreir-category_a9rcg1.webp",
-      "description": "A warm mix of golden and orange flowers."
+      "description": "A warm mix of golden and orange flowers.",
+      "category": [
+        "christmas",
+        "valentine"
+      ]
     },
     {
       "id": 6,
@@ -50,7 +66,11 @@
       "price": "€21.00",
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/v1234567890/flowers/blush-bouquet.jpg",
-      "description": "A soft blend of pastel pink and white flowers."
+      "description": "A soft blend of pastel pink and white flowers.",
+      "category": [
+        "christmas",
+        "valentine"
+      ]
     },
     {
       "id": 7,
@@ -58,7 +78,11 @@
       "price": "€23.40",
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258709/fnsc-category_qymugo.jpg",
-      "description": "A unique mix of blue and white flowers."
+      "description": "A unique mix of blue and white flowers.",
+      "category": [
+        "christmas",
+        "valentine"
+      ]
     },
     {
       "id": 8,
@@ -66,7 +90,11 @@
       "price": "€24.90",
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258709/fnsc-category_qymugo.jpg",
-      "description": "A cheerful combination of spring flowers."
+      "description": "A cheerful combination of spring flowers.",
+      "category": [
+        "christmas",
+        "valentine"
+      ]
     }
   ]
 }
