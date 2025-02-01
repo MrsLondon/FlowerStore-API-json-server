@@ -2,9 +2,9 @@
   "flowers": [
     {
       "id": 1,
-      "name": "Mauve Magic",
+      "name": "Pastel_Dream_Letterbox_umidxl.webp",
       "price": "€20.40",
-      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258814/fstwsun-category_hbusbf.webp",
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Pastel_Dream_Letterbox_umidxl.webp",
       "quantity": 1,
       "description": "A beautiful bouquet of mauve flowers.",
       "category": [
@@ -14,10 +14,10 @@
     },
     {
       "id": 2,
-      "name": "Sunshine Bliss",
+      "name": "Spray_Cascade_Letterbox_lsamsf.jpgs",
       "price": "€18.00",
       "quantity": 1,
-      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258708/fhnydz-category_bvs5s9.webp",
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Spray_Cascade_Letterbox_lsamsf.jpg",
       "description": "A sunny and cheerful bouquet.",
       "category": [
         "christmas",
@@ -26,10 +26,10 @@
     },
     {
       "id": 3,
-      "name": "Rose Radiance",
+      "name": "Royal_Velvet_Letterbox_nclnqj.jpg",
       "price": "€25.50",
       "quantity": 1,
-      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258816/fprfrw-category_z6hoch.webp",
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Royal_Velvet_Letterbox_nclnqj.jpg",
       "description": "A vibrant bouquet of red and pink roses.",
       "category": [
         "christmas",
@@ -38,10 +38,10 @@
     },
     {
       "id": 4,
-      "name": "Lavender Dreams",
+      "name": "Butterfly_Dreams_Letterbox_bk4pbv.webp",
       "price": "€22.30",
       "quantity": 1,
-      "imageUrl": "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/v1234567890/flowers/lavender-dreams.jpg",
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Butterfly_Dreams_Letterbox_bk4pbv.webp",
       "description": "A calming bouquet of fresh lavender.",
       "category": [
         "christmas",
@@ -50,10 +50,10 @@
     },
     {
       "id": 5,
-      "name": "Golden Glow",
+      "name": "Iris_and_Freesia_Letterbox_n16m7d.webp",
       "price": "€19.80",
       "quantity": 1,
-      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258708/ffreir-category_a9rcg1.webp",
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Iris_and_Freesia_Letterbox_n16m7d.webp",
       "description": "A warm mix of golden and orange flowers.",
       "category": [
         "christmas",
@@ -62,10 +62,10 @@
     },
     {
       "id": 6,
-      "name": "Blush Bouquet",
+      "name": "Pink_Parfait_Letterbox_c9plwh.webp",
       "price": "€21.00",
       "quantity": 1,
-      "imageUrl": "https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/v1234567890/flowers/blush-bouquet.jpg",
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Pink_Parfait_Letterbox_c9plwh.webp",
       "description": "A soft blend of pastel pink and white flowers.",
       "category": [
         "christmas",
@@ -74,10 +74,10 @@
     },
     {
       "id": 7,
-      "name": "Blue Serenity",
+      "name": "Sweet_Sunshine_Letterbox_j9renk.jpg",
       "price": "€23.40",
       "quantity": 1,
-      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258709/fnsc-category_qymugo.jpg",
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Sweet_Sunshine_Letterbox_j9renk.jpg",
       "description": "A unique mix of blue and white flowers.",
       "category": [
         "christmas",
@@ -86,10 +86,10 @@
     },
     {
       "id": 8,
-      "name": "Spring Melody",
+      "name": "Buttercream_Bliss_Letterbox_mzpocr.webp",
       "price": "€24.90",
       "quantity": 1,
-      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738258709/fnsc-category_qymugo.jpg",
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Buttercream_Bliss_Letterbox_mzpocr.webp",
       "description": "A cheerful combination of spring flowers.",
       "category": [
         "christmas",
