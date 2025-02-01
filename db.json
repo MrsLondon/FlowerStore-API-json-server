@@ -2,55 +2,55 @@
   "flowers": [
     {
       "id": 1,
-      "name": "Pastel_Dream_Letterbox_umidxl.webp",
+      "name": "Pastel Dream",
       "price": "€20.40",
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Pastel_Dream_Letterbox_umidxl.webp",
       "quantity": 1,
       "description": "A beautiful bouquet of mauve flowers.",
       "category": [
-        "christmas",
-        "valentine"
+        "gift",
+        "bouquet"
       ]
     },
     {
       "id": 2,
-      "name": "Spray_Cascade_Letterbox_lsamsf.jpgs",
+      "name": "Spray Cascade",
       "price": "€18.00",
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Spray_Cascade_Letterbox_lsamsf.jpg",
       "description": "A sunny and cheerful bouquet.",
       "category": [
-        "christmas",
-        "valentine"
+        "gift",
+        "bouquet"
       ]
     },
     {
       "id": 3,
-      "name": "Royal_Velvet_Letterbox_nclnqj.jpg",
+      "name": "Royal Velvet",
       "price": "€25.50",
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Royal_Velvet_Letterbox_nclnqj.jpg",
       "description": "A vibrant bouquet of red and pink roses.",
       "category": [
-        "christmas",
-        "valentine"
+        "gift",
+        "bouquet"
       ]
     },
     {
       "id": 4,
-      "name": "Butterfly_Dreams_Letterbox_bk4pbv.webp",
+      "name": "Butterfly Dreams",
       "price": "€22.30",
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Butterfly_Dreams_Letterbox_bk4pbv.webp",
       "description": "A calming bouquet of fresh lavender.",
       "category": [
-        "christmas",
-        "valentine"
+        "gift",
+        "bouquet"
       ]
     },
     {
       "id": 5,
-      "name": "Iris_and_Freesia_Letterbox_n16m7d.webp",
+      "name": "Iris and Freesia",
       "price": "€19.80",
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Iris_and_Freesia_Letterbox_n16m7d.webp",
@@ -62,37 +62,85 @@
     },
     {
       "id": 6,
-      "name": "Pink_Parfait_Letterbox_c9plwh.webp",
+      "name": "Pink Parfait",
       "price": "€21.00",
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Pink_Parfait_Letterbox_c9plwh.webp",
       "description": "A soft blend of pastel pink and white flowers.",
       "category": [
         "christmas",
-        "valentine"
+        "bouquet"
       ]
     },
     {
       "id": 7,
-      "name": "Sweet_Sunshine_Letterbox_j9renk.jpg",
+      "name": "Sweet Sunshine",
       "price": "€23.40",
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Sweet_Sunshine_Letterbox_j9renk.jpg",
       "description": "A unique mix of blue and white flowers.",
       "category": [
         "christmas",
-        "valentine"
+        "bouquet"
       ]
     },
     {
       "id": 8,
-      "name": "Buttercream_Bliss_Letterbox_mzpocr.webp",
+      "name": "Buttercream Bliss",
       "price": "€24.90",
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Buttercream_Bliss_Letterbox_mzpocr.webp",
       "description": "A cheerful combination of spring flowers.",
       "category": [
         "christmas",
+        "bouquet"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "24 Red Roses Gypsophila",
+      "price": "€54,90",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738405980/24_Red_Roses_Gypsophila_vygupy.webp",
+      "description": "Two dozen elegant luxury red Roses with delicate white Gypsophila.",
+      "category": [
+        "bouquet",
+        "valentine"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Strawberry Sunset",
+      "price": "€26,99",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738415463/Strawberry_Sunset_pphgtk.webp",
+      "description": "A beautiful mix of Carnations, Roses and Lilies in shades of pink and coral.",
+      "category": [
+        "bouquet",
+        "valentine"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Valentine's Red Rose Plant",
+      "price": "€19,97",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738415463/Valentine_s_Red_Rose_Plant_jnmodr.jpg",
+      "description": "A beautiful red Rose plant delivered in a heart shaped plant pot cover.",
+      "category": [
+        "bouquet",
+        "valentine"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Happy Valentine's Bouquet",
+      "price": "€21,25",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738415463/Happy_Valentine_s_Bouquet_sjcxuo.webp",
+      "description": "A beautiful red Rose surrounded by clusters of red and burgundy Carnations.",
+      "category": [
+        "bouquet",
         "valentine"
       ]
     }
