@@ -105,7 +105,8 @@
       "description": "Two dozen elegant luxury red Roses with delicate white Gypsophila.",
       "category": [
         "bouquet",
-        "valentine"
+        "valentine", 
+        "roses"
       ]
     },
     {
@@ -129,7 +130,8 @@
       "description": "A beautiful red Rose plant delivered in a heart shaped plant pot cover.",
       "category": [
         "bouquet",
-        "valentine"
+        "valentine",
+        "roses"
       ]
     },
     {
@@ -182,6 +184,18 @@
     },
     {
       "id": 16,
+      "name": "Violet Tulips",
+      "price": "€25,25",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488612/Violet_Tulips_uwpqrc.webp",
+      "description": "A beautiful bouquet of violet Tulips.",
+      "category": [
+        "bouquet",
+        "tulips"
+      ]
+    },
+    {
+      "id": 17,
       "name": "Pink Lilies",
       "price": "€20,50",
       "quantity": 1,
@@ -193,7 +207,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 18,
       "name": "White Lilies",
       "price": "€20,50",
       "quantity": 1,
@@ -202,18 +216,6 @@
       "category": [
         "bouquet",
         "lilies"
-      ]
-    },
-    {
-      "id": 18,
-      "name": "Mix Roses",
-      "price": "€23,75",
-      "quantity": 1,
-      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488611/Mix_Roses_ulbixl.webp",
-      "description": "A beautiful mix of red, pink and white Roses.",
-      "category": [
-        "bouquet",
-        "roses"
       ]
     },
     {
@@ -228,6 +230,7 @@
         "roses"
       ]
     },
+    
     {
       "id": 20,
       "name": "Pink Roses",
@@ -242,7 +245,7 @@
     },
    
     {
-      "id": 22,
+      "id": 21,
       "name": "White Roses",
       "price": "€23,75",
       "quantity": 1,
@@ -255,7 +258,7 @@
     },
     
     {
-      "id": 24,
+      "id": 22,
       "name": "White and Violet Daisy",
       "price": "€21,99",
       "quantity": 1,
@@ -267,7 +270,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 23,
       "name": "Pink Daisy",
       "price": "€21,99",
       "quantity": 1,
@@ -279,7 +282,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 24,
       "name": "White Daisy",
       "price": "€21,99",
       "quantity": 1,
@@ -291,7 +294,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 25,
       "name": "White and Yellow Daisy",
       "price": "€21,99",
       "quantity": 1,
@@ -303,7 +306,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 26,
       "name": "Small Lavender",
       "price": "€18,00",
       "quantity": 1,
@@ -315,7 +318,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 27,
       "name": "Medium Lavender",
       "price": "€20,00",
       "quantity": 1,
@@ -327,7 +330,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 28,
       "name": "Large Lavender",
       "price": "€25,00",
       "quantity": 1,
@@ -339,7 +342,7 @@
       ]
     },
     {
-      "id": 31,
+      "id": 29,
       "name": "Peony Pink",
       "price": "€15,00",
       "quantity": 1,
@@ -351,7 +354,7 @@
       ]
     },
     {
-      "id": 32,
+      "id": 30,
       "name": "Peony Red",
       "price": "€15,00",
       "quantity": 1,
@@ -363,7 +366,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": 31,
       "name": "Peony White",
       "price": "€15,00",
       "quantity": 1,
@@ -375,7 +378,7 @@
       ]
     },
     {
-      "id": 34,
+      "id": 32,
       "name": "Sunflower Mix",
       "price": "€20,00",
       "quantity": 1,
@@ -387,7 +390,7 @@
       ]
     },
     {
-      "id": 35,
+      "id": 33,
       "name": "Sunflower ",
       "price": "€20,00",
       "quantity": 1,
@@ -398,9 +401,5 @@
         "sunflower"
       ]
     }
-
-
-
-
   ]
 }
