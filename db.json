@@ -143,6 +143,286 @@
         "bouquet",
         "valentine"
       ]
+    },
+    {
+      "id": 13,
+      "name": "Mix Tulips",
+      "price": "€25,25",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488589/Yellow_Violet_and_Orange_Tulips_fg0pwc.webp",
+      "description": "A beautiful mix of yellow, violet and orange Tulips.",
+      "category": [
+        "bouquet",
+        "tulips"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Mix Tulips 2",
+      "price": "€25,25",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488595/White_Pink_and_Violet_tulips_ihttjo.webp",
+      "description": "A beautiful mix of white, pink and violet Tulips.",
+      "category": [
+        "bouquet",
+        "tulips"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "White Tulips",
+      "price": "€25,25",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488612/White_Tulips_dp14t6.webp",
+      "description": "A beautiful bouquet of white Tulips.",
+      "category": [
+        "bouquet",
+        "tulips"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Pink Lilies",
+      "price": "€20,50",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488612/Pink_Lilies_bytjej.webp",
+      "description": "A beautiful bouquet of pink Lilies.",
+      "category": [
+        "bouquet",
+        "lilies"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "White Lilies",
+      "price": "€20,50",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488612/White_Lilies_lrc7dt.webp",
+      "description": "A beautiful bouquet of white Lilies.",
+      "category": [
+        "bouquet",
+        "lilies"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Mix Roses",
+      "price": "€23,75",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488611/Mix_Roses_ulbixl.webp",
+      "description": "A beautiful mix of red, pink and white Roses.",
+      "category": [
+        "bouquet",
+        "roses"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Mix Roses",
+      "price": "€23,75",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488611/Mix_Roses_ulbixl.webp",
+      "description": "A beautiful mix of red, pink and white Roses.",
+      "category": [
+        "bouquet",
+        "roses"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Pink Roses",
+      "price": "€23,75",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488612/Pink_Roses_hedvpd.webp",
+      "description": "A beautiful bouquet of pink Roses.",
+      "category": [
+        "bouquet",
+        "roses"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Pink Roses",
+      "price": "€23,75",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488612/Pink_Roses_hedvpd.webp",
+      "description": "A beautiful bouquet of pink Roses.",
+      "category": [
+        "bouquet",
+        "roses"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "White Roses",
+      "price": "€23,75",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488612/White_Roses_dokxjf.webp",
+      "description": "A beatiful bouquet of white roses.",
+      "category": [
+        "bouquet",
+        "roses"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "White Roses",
+      "price": "€23,75",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488612/White_Roses_dokxjf.webp",
+      "description": "A beatiful bouquet of white roses.",
+      "category": [
+        "bouquet",
+        "roses"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "White and Violet Daisy",
+      "price": "€21,99",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489260/Daisy_white_and_violet_dvy3v9.avif",
+      "description": "A beautiful bouquet of white and violet Daisies.",
+      "category": [
+        "bouquet",
+        "daisy"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Pink Daisy",
+      "price": "€21,99",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489260/Daisy_pink_wp6pcr.webp",
+      "description": "A beautiful bouquet of pink Daisies.",
+      "category": [
+        "bouquet",
+        "daisy"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "White Daisy",
+      "price": "€21,99",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489261/Daisy_white_taczb0.webp",
+      "description": "A beautiful bouquet of white Daisies",
+      "category": [
+        "bouquet",
+        "daisy"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "White and Yellow Daisy",
+      "price": "€21,99",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489261/Daisy_white_and_yellow_fyy6fw.webp",
+      "description": "A beautiful bouquet of white and yellow",
+      "category": [
+        "bouquet",
+        "daisy"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Small Lavender",
+      "price": "€18,00",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489261/Lavender_ndue82.webp",
+      "description": "A small bouquet of fresh lavender.",
+      "category": [
+        "bouquet",
+        "lavender"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Medium Lavender",
+      "price": "€20,00",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489261/Lavender_mix_fwjkmv.webp",
+      "description": "A medium bouquet of fresh lavender.",
+      "category": [
+        "bouquet",
+        "lavender"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Large Lavender",
+      "price": "€25,00",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489261/Lavender_large_lgekzi.jpg",
+      "description": "A large bouquet of fresh lavender.",
+      "category": [
+        "bouquet",
+        "lavender"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Peony Pink",
+      "price": "€15,00",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489261/Peony_Pink_g3oqtq.jpg",
+      "description": "A beautiful bouquet of pink Peonies.",
+      "category": [
+        "bouquet",
+        "peony"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Peony Red",
+      "price": "€15,00",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489261/Peony_red_ioml2n.webp",
+      "description": "A beautiful bouquet of red Peonies.",
+      "category": [
+        "bouquet",
+        "peony"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Peony White",
+      "price": "€15,00",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489262/Peony_white_bkkn5i.jpg",
+      "description": "A beautiful bouquet of white Peonies.",
+      "category": [
+        "bouquet",
+        "peony"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Sunflower Mix",
+      "price": "€20,00",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489263/Sunflower_mix_heorgt.webp",
+      "description": "A beautiful bouquet of Sunflowers.",
+      "category": [
+        "bouquet",
+        "sunflower"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Sunflower ",
+      "price": "€20,00",
+      "quantity": 1,
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489263/Sunflower_olls8f.webp",
+      "description": "A beautiful bouquet of Sunflowers.",
+      "category": [
+        "bouquet",
+        "sunflower"
+      ]
     }
+
+
+
+
   ]
 }
