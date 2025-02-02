@@ -240,18 +240,7 @@
         "roses"
       ]
     },
-    {
-      "id": 21,
-      "name": "Pink Roses",
-      "price": "€23,75",
-      "quantity": 1,
-      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488612/Pink_Roses_hedvpd.webp",
-      "description": "A beautiful bouquet of pink Roses.",
-      "category": [
-        "bouquet",
-        "roses"
-      ]
-    },
+   
     {
       "id": 22,
       "name": "White Roses",
@@ -264,18 +253,7 @@
         "roses"
       ]
     },
-    {
-      "id": 23,
-      "name": "White Roses",
-      "price": "€23,75",
-      "quantity": 1,
-      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488612/White_Roses_dokxjf.webp",
-      "description": "A beatiful bouquet of white roses.",
-      "category": [
-        "bouquet",
-        "roses"
-      ]
-    },
+    
     {
       "id": 24,
       "name": "White and Violet Daisy",
