@@ -10,7 +10,8 @@
       "category": [
         "gift",
         "bouquet"
-      ]
+      ],
+      "type": "peony"
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
       "category": [
         "gift",
         "bouquet"
-      ]
+      ],
+      "type": "peony"
     },
     {
       "id": 3,
@@ -34,7 +36,8 @@
       "category": [
         "gift",
         "bouquet"
-      ]
+      ],
+      "type": "roses"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "category": [
         "gift",
         "bouquet"
-      ]
+      ],
+      "type": "peony"
     },
     {
       "id": 5,
@@ -58,7 +62,8 @@
       "category": [
         "wedding",
         "bouquet"
-      ]
+      ],
+      "type": "lilies"
     },
     {
       "id": 6,
@@ -70,7 +75,8 @@
       "category": [
         "wedding",
         "bouquet"
-      ]
+      ],
+      "type": "daisy"
     },
     {
       "id": 7,
@@ -82,7 +88,8 @@
       "category": [
         "wedding",
         "bouquet"
-      ]
+      ],
+      "type": "roses"
     },
     {
       "id": 8,
@@ -94,7 +101,8 @@
       "category": [
         "wedding",
         "bouquet"
-      ]
+      ],
+      "type": "peony"
     },
     {
       "id": 9,
@@ -105,9 +113,9 @@
       "description": "Two dozen elegant luxury red Roses with delicate white Gypsophila.",
       "category": [
         "bouquet",
-        "valentine", 
-        "roses"
-      ]
+        "valentine"
+        ],
+        "type": "roses"
     },
     {
       "id": 10,
@@ -119,7 +127,8 @@
       "category": [
         "bouquet",
         "valentine"
-      ]
+      ],
+      "type": "lilies"
     },
     {
       "id": 11,
@@ -130,9 +139,9 @@
       "description": "A beautiful red Rose plant delivered in a heart shaped plant pot cover.",
       "category": [
         "bouquet",
-        "valentine",
-        "roses"
-      ]
+        "valentine"
+      ],
+      "type": "roses"
     },
     {
       "id": 12,
@@ -144,7 +153,8 @@
       "category": [
         "bouquet",
         "valentine"
-      ]
+      ],
+      "type": ["roses", "peony"]
     },
     {
       "id": 13,
@@ -155,8 +165,9 @@
       "description": "A beautiful mix of yellow, violet and orange Tulips.",
       "category": [
         "bouquet",
-        "tulips"
-      ]
+        "gift"
+      ],
+      "type": "tulips"
     },
     {
       "id": 14,
@@ -167,8 +178,9 @@
       "description": "A beautiful mix of white, pink and violet Tulips.",
       "category": [
         "bouquet",
-        "tulips"
-      ]
+        "gift"
+      ],
+      "type": "tulips"
     },
     {
       "id": 15,
@@ -179,8 +191,9 @@
       "description": "A beautiful bouquet of white Tulips.",
       "category": [
         "bouquet",
-        "tulips"
-      ]
+        "gift"
+      ],
+      "type": "tulips"
     },
     {
       "id": 16,
@@ -191,8 +204,9 @@
       "description": "A beautiful bouquet of violet Tulips.",
       "category": [
         "bouquet",
-        "tulips"
-      ]
+        "gift"
+      ],
+      "type": "tulips"
     },
     {
       "id": 17,
@@ -203,8 +217,9 @@
       "description": "A beautiful bouquet of pink Lilies.",
       "category": [
         "bouquet",
-        "lilies"
-      ]
+        "wedding"
+      ],
+      "type": "lilies"
     },
     {
       "id": 18,
@@ -215,8 +230,9 @@
       "description": "A beautiful bouquet of white Lilies.",
       "category": [
         "bouquet",
-        "lilies"
-      ]
+        "wedding"
+      ],
+      "type": "lilies"
     },
     {
       "id": 19,
@@ -227,8 +243,9 @@
       "description": "A beautiful mix of red, pink and white Roses.",
       "category": [
         "bouquet",
-        "roses"
-      ]
+        "valentine"
+      ],
+      "type": "roses"
     },
     
     {
@@ -240,8 +257,9 @@
       "description": "A beautiful bouquet of pink Roses.",
       "category": [
         "bouquet",
-        "roses"
-      ]
+        "wedding"
+      ],
+      "type": "roses"
     },
    
     {
@@ -253,8 +271,9 @@
       "description": "A beatiful bouquet of white roses.",
       "category": [
         "bouquet",
-        "roses"
-      ]
+        "wedding"
+      ],
+      "type": "roses"
     },
     
     {
@@ -266,8 +285,9 @@
       "description": "A beautiful bouquet of white and violet Daisies.",
       "category": [
         "bouquet",
-        "daisy"
-      ]
+        "valentine"
+      ],
+      "type": "daisy"
     },
     {
       "id": 23,
@@ -278,8 +298,9 @@
       "description": "A beautiful bouquet of pink Daisies.",
       "category": [
         "bouquet",
-        "daisy"
-      ]
+        "valentine"
+      ],
+      "type": "daisy"
     },
     {
       "id": 24,
@@ -290,8 +311,9 @@
       "description": "A beautiful bouquet of white Daisies",
       "category": [
         "bouquet",
-        "daisy"
-      ]
+        "gift"
+      ],
+      "type": "daisy"
     },
     {
       "id": 25,
@@ -302,8 +324,9 @@
       "description": "A beautiful bouquet of white and yellow",
       "category": [
         "bouquet",
-        "daisy"
-      ]
+        "gift"
+      ],
+      "type": "daisy"
     },
     {
       "id": 26,
@@ -314,8 +337,9 @@
       "description": "A small bouquet of fresh lavender.",
       "category": [
         "bouquet",
-        "lavender"
-      ]
+        "gift"
+      ],
+      "type": "lavender"
     },
     {
       "id": 27,
@@ -326,8 +350,9 @@
       "description": "A medium bouquet of fresh lavender.",
       "category": [
         "bouquet",
-        "lavender"
-      ]
+        "wedding"
+      ],
+      "type": "lavender"
     },
     {
       "id": 28,
@@ -338,8 +363,9 @@
       "description": "A large bouquet of fresh lavender.",
       "category": [
         "bouquet",
-        "lavender"
-      ]
+        "wedding"
+      ],
+      "type": "lavender"
     },
     {
       "id": 29,
@@ -350,8 +376,9 @@
       "description": "A beautiful bouquet of pink Peonies.",
       "category": [
         "bouquet",
-        "peony"
-      ]
+        "gift"
+      ],
+      "type": "peony"
     },
     {
       "id": 30,
@@ -362,8 +389,9 @@
       "description": "A beautiful bouquet of red Peonies.",
       "category": [
         "bouquet",
-        "peony"
-      ]
+        "valentine"
+      ],
+      "type": "peony"
     },
     {
       "id": 31,
@@ -374,8 +402,9 @@
       "description": "A beautiful bouquet of white Peonies.",
       "category": [
         "bouquet",
-        "peony"
-      ]
+        "wedding"
+      ],
+      "type": "peony"
     },
     {
       "id": 32,
@@ -386,8 +415,9 @@
       "description": "A beautiful bouquet of Sunflowers.",
       "category": [
         "bouquet",
-        "sunflower"
-      ]
+        "wedding"
+      ],
+      "type": "sunflower"
     },
     {
       "id": 33,
@@ -398,8 +428,9 @@
       "description": "A beautiful bouquet of Sunflowers.",
       "category": [
         "bouquet",
-        "sunflower"
-      ]
+        "gift"
+      ],
+      "type": "sunflower"
     }
   ]
 }
