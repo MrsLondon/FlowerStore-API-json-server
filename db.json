@@ -9,7 +9,8 @@
       "description": "A beautiful bouquet of mauve flowers.",
       "category": [
         "gift",
-        "bouquet"
+        "bouquet",
+        "homepage"
       ],
       "type": "peony"
     },
@@ -35,7 +36,8 @@
       "description": "A vibrant bouquet of red and pink roses.",
       "category": [
         "gift",
-        "bouquet"
+        "bouquet",
+        "homepage"
       ],
       "type": "roses"
     },
@@ -48,7 +50,8 @@
       "description": "A calming bouquet of fresh lavender.",
       "category": [
         "gift",
-        "bouquet"
+        "bouquet",
+        "homepage"
       ],
       "type": "peony"
     },
@@ -61,7 +64,8 @@
       "description": "A warm mix of golden and orange flowers.",
       "category": [
         "wedding",
-        "bouquet"
+        "bouquet",
+        "homepage"
       ],
       "type": "lilies"
     },
@@ -87,7 +91,8 @@
       "description": "A unique mix of blue and white flowers.",
       "category": [
         "wedding",
-        "bouquet"
+        "bouquet",
+        "homepage"
       ],
       "type": "roses"
     },
@@ -100,7 +105,8 @@
       "description": "A cheerful combination of spring flowers.",
       "category": [
         "wedding",
-        "bouquet"
+        "bouquet",
+        "homepage"
       ],
       "type": "peony"
     },
@@ -113,7 +119,8 @@
       "description": "Two dozen elegant luxury red Roses with delicate white Gypsophila.",
       "category": [
         "bouquet",
-        "valentine"
+        "valentine",
+        "homepage"
         ],
         "type": "roses"
     },
@@ -126,7 +133,8 @@
       "description": "A beautiful mix of Carnations, Roses and Lilies in shades of pink and coral.",
       "category": [
         "bouquet",
-        "valentine"
+        "valentine",
+        "homepage"
       ],
       "type": "lilies"
     },
@@ -140,6 +148,7 @@
       "category": [
         "bouquet",
         "valentine"
+        
       ],
       "type": "roses"
     },
@@ -165,7 +174,8 @@
       "description": "A beautiful mix of yellow, violet and orange Tulips.",
       "category": [
         "bouquet",
-        "gift"
+        "gift",
+        "homepage"
       ],
       "type": "tulips"
     },
@@ -218,6 +228,7 @@
       "category": [
         "bouquet",
         "wedding"
+        
       ],
       "type": "lilies"
     },
@@ -257,7 +268,8 @@
       "description": "A beautiful bouquet of pink Roses.",
       "category": [
         "bouquet",
-        "wedding"
+        "wedding",
+        "homepage"
       ],
       "type": "roses"
     },
@@ -298,7 +310,8 @@
       "description": "A beautiful bouquet of pink Daisies.",
       "category": [
         "bouquet",
-        "valentine"
+        "valentine",
+        "homepage"
       ],
       "type": "daisy"
     },
@@ -350,7 +363,8 @@
       "description": "A medium bouquet of fresh lavender.",
       "category": [
         "bouquet",
-        "wedding"
+        "wedding",
+        "homepage"
       ],
       "type": "lavender"
     },
