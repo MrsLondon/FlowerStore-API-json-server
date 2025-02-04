@@ -293,7 +293,7 @@
       "name": "White and Violet Daisy",
       "price": "€21,99",
       "quantity": 1,
-      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489260/Daisy_white_and_violet_dvy3v9.avif",
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/c_crop,ar_1:1/v1738489260/Daisy_white_and_violet_dvy3v9.avif",
       "description": "A beautiful bouquet of white and violet Daisies.",
       "category": [
         "bouquet",
@@ -320,7 +320,7 @@
       "name": "White Daisy",
       "price": "€21,99",
       "quantity": 1,
-      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489261/Daisy_white_taczb0.webp",
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738700078/Daisy_white_taczb0_c_crop_ar_1_1_usazro.webp",
       "description": "A beautiful bouquet of white Daisies",
       "category": [
         "bouquet",
@@ -373,7 +373,7 @@
       "name": "Large Lavender",
       "price": "€25,00",
       "quantity": 1,
-      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489261/Lavender_large_lgekzi.jpg",
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738699967/Lavender_large_lgekzi_c_crop_ar_1_1_ve7mez.jpg",
       "description": "A large bouquet of fresh lavender.",
       "category": [
         "bouquet",
@@ -412,7 +412,7 @@
       "name": "Peony White",
       "price": "€15,00",
       "quantity": 1,
-      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489262/Peony_white_bkkn5i.jpg",
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738700027/Peony_white_bkkn5i_c_crop_ar_1_1_e9ypan.jpg",
       "description": "A beautiful bouquet of white Peonies.",
       "category": [
         "bouquet",
