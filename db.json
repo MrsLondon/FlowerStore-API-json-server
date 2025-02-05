@@ -386,7 +386,7 @@
       "name": "Peony Pink",
       "price": "€15,00",
       "quantity": 1,
-      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489261/Peony_Pink_g3oqtq.jpg",
+      "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/c_crop,ar_1:1/v1738489261/Peony_Pink_g3oqtq.jpg",
       "description": "A beautiful bouquet of pink Peonies.",
       "category": [
         "bouquet",
