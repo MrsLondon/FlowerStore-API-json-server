@@ -446,5 +446,13 @@
       ],
       "type": "sunflower"
     }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "Jane Doe",
+      "email": "jane@gmail.com"
+    }
   ]
 }
