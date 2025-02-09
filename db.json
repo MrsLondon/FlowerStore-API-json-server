@@ -121,8 +121,8 @@
         "bouquet",
         "valentine",
         "homepage"
-        ],
-        "type": "roses"
+      ],
+      "type": "roses"
     },
     {
       "id": 10,
@@ -148,7 +148,6 @@
       "category": [
         "bouquet",
         "valentine"
-        
       ],
       "type": "roses"
     },
@@ -163,7 +162,10 @@
         "bouquet",
         "valentine"
       ],
-      "type": ["roses", "peony"]
+      "type": [
+        "roses",
+        "peony"
+      ]
     },
     {
       "id": 13,
@@ -228,7 +230,6 @@
       "category": [
         "bouquet",
         "wedding"
-        
       ],
       "type": "lilies"
     },
@@ -258,7 +259,6 @@
       ],
       "type": "roses"
     },
-    
     {
       "id": 20,
       "name": "Pink Roses",
@@ -273,7 +273,6 @@
       ],
       "type": "roses"
     },
-   
     {
       "id": 21,
       "name": "White Roses",
@@ -287,7 +286,6 @@
       ],
       "type": "roses"
     },
-    
     {
       "id": 22,
       "name": "White and Violet Daisy",
@@ -446,5 +444,47 @@
       ],
       "type": "sunflower"
     }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "hashed_password",
+      "address": {
+        "house number": 10 , 
+        "street": "123 Elm St",
+        "city": "Berlin",
+        "postalCode": "10115"
+      }
+    }
+  ],
+
+  "orders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "orderDate": "2025-02-08T10:00:00Z",
+      "items": [
+        {
+          "productId": 33,
+          "name": "Sunflower",
+          "quantity": 1,
+          "price": "€20,00"
+        }
+      ],
+      "totalPrice": "€20,00",
+      "status": "pending",
+      "shippingAddress": {
+        "street": "123 Elm St",
+        "city": "Berlin",
+        "postalCode": "10115"
+      },
+      "paymentStatus": "paid",
+      "createdAt": "2025-02-08T10:00:00Z",
+      "updatedAt": "2025-02-08T10:00:00Z"
+    }
+    
   ]
 }
