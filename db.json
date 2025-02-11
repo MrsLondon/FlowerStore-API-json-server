@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Pastel Dream",
-      "price": "€20.40",
+      "price": 20.40,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Pastel_Dream_Letterbox_umidxl.webp",
       "quantity": 1,
       "description": "A beautiful bouquet of mauve flowers.",
@@ -17,7 +17,7 @@
     {
       "id": 2,
       "name": "Spray Cascade",
-      "price": "€18.00",
+      "price": 18.00,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Spray_Cascade_Letterbox_lsamsf.jpg",
       "description": "A sunny and cheerful bouquet.",
@@ -30,7 +30,7 @@
     {
       "id": 3,
       "name": "Royal Velvet",
-      "price": "€25.50",
+      "price": 25.50,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Royal_Velvet_Letterbox_nclnqj.jpg",
       "description": "A vibrant bouquet of red and pink roses.",
@@ -44,7 +44,7 @@
     {
       "id": 4,
       "name": "Butterfly Dreams",
-      "price": "€22.30",
+      "price": 22.30,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Butterfly_Dreams_Letterbox_bk4pbv.webp",
       "description": "A calming bouquet of fresh lavender.",
@@ -58,7 +58,7 @@
     {
       "id": 5,
       "name": "Iris and Freesia",
-      "price": "€19.80",
+      "price": 19.80,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Iris_and_Freesia_Letterbox_n16m7d.webp",
       "description": "A warm mix of golden and orange flowers.",
@@ -72,7 +72,7 @@
     {
       "id": 6,
       "name": "Pink Parfait",
-      "price": "€21.00",
+      "price": 21.00,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Pink_Parfait_Letterbox_c9plwh.webp",
       "description": "A soft blend of pastel pink and white flowers.",
@@ -85,7 +85,7 @@
     {
       "id": 7,
       "name": "Sweet Sunshine",
-      "price": "€23.40",
+      "price": 23.40,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Sweet_Sunshine_Letterbox_j9renk.jpg",
       "description": "A unique mix of blue and white flowers.",
@@ -99,7 +99,7 @@
     {
       "id": 8,
       "name": "Buttercream Bliss",
-      "price": "€24.90",
+      "price": 24.90,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738404412/Buttercream_Bliss_Letterbox_mzpocr.webp",
       "description": "A cheerful combination of spring flowers.",
@@ -113,7 +113,7 @@
     {
       "id": 9,
       "name": "24 Red Roses Gypsophila",
-      "price": "€54,90",
+      "price": 54.90,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738405980/24_Red_Roses_Gypsophila_vygupy.webp",
       "description": "Two dozen elegant luxury red Roses with delicate white Gypsophila.",
@@ -127,7 +127,7 @@
     {
       "id": 10,
       "name": "Strawberry Sunset",
-      "price": "€26,99",
+      "price": 26.99,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738415463/Strawberry_Sunset_pphgtk.webp",
       "description": "A beautiful mix of Carnations, Roses and Lilies in shades of pink and coral.",
@@ -141,7 +141,7 @@
     {
       "id": 11,
       "name": "Valentine's Red Rose Plant",
-      "price": "€19,97",
+      "price": 19.97,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738415463/Valentine_s_Red_Rose_Plant_jnmodr.jpg",
       "description": "A beautiful red Rose plant delivered in a heart shaped plant pot cover.",
@@ -154,7 +154,7 @@
     {
       "id": 12,
       "name": "Happy Valentine's Bouquet",
-      "price": "€21,25",
+      "price": 21.25,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738415463/Happy_Valentine_s_Bouquet_sjcxuo.webp",
       "description": "A beautiful red Rose surrounded by clusters of red and burgundy Carnations.",
@@ -170,7 +170,7 @@
     {
       "id": 13,
       "name": "Mix Tulips",
-      "price": "€25,25",
+      "price": 25.25,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488589/Yellow_Violet_and_Orange_Tulips_fg0pwc.webp",
       "description": "A beautiful mix of yellow, violet and orange Tulips.",
@@ -184,7 +184,7 @@
     {
       "id": 14,
       "name": "Mix Tulips 2",
-      "price": "€25,25",
+      "price": 25.25,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488595/White_Pink_and_Violet_tulips_ihttjo.webp",
       "description": "A beautiful mix of white, pink and violet Tulips.",
@@ -197,7 +197,7 @@
     {
       "id": 15,
       "name": "White Tulips",
-      "price": "€25,25",
+      "price": 25.25,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488612/White_Tulips_dp14t6.webp",
       "description": "A beautiful bouquet of white Tulips.",
@@ -210,7 +210,7 @@
     {
       "id": 16,
       "name": "Violet Tulips",
-      "price": "€25,25",
+      "price": 25.25,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488612/Violet_Tulips_uwpqrc.webp",
       "description": "A beautiful bouquet of violet Tulips.",
@@ -223,7 +223,7 @@
     {
       "id": 17,
       "name": "Pink Lilies",
-      "price": "€20,50",
+      "price": 20.50,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488612/Pink_Lilies_bytjej.webp",
       "description": "A beautiful bouquet of pink Lilies.",
@@ -236,7 +236,7 @@
     {
       "id": 18,
       "name": "White Lilies",
-      "price": "€20,50",
+      "price": 20.50,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488612/White_Lilies_lrc7dt.webp",
       "description": "A beautiful bouquet of white Lilies.",
@@ -249,7 +249,7 @@
     {
       "id": 19,
       "name": "Mix Roses",
-      "price": "€23,75",
+      "price": 23.75,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488611/Mix_Roses_ulbixl.webp",
       "description": "A beautiful mix of red, pink and white Roses.",
@@ -262,7 +262,7 @@
     {
       "id": 20,
       "name": "Pink Roses",
-      "price": "€23,75",
+      "price": 23.75,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488612/Pink_Roses_hedvpd.webp",
       "description": "A beautiful bouquet of pink Roses.",
@@ -276,7 +276,7 @@
     {
       "id": 21,
       "name": "White Roses",
-      "price": "€23,75",
+      "price": 23.75,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738488612/White_Roses_dokxjf.webp",
       "description": "A beatiful bouquet of white roses.",
@@ -289,7 +289,7 @@
     {
       "id": 22,
       "name": "White and Violet Daisy",
-      "price": "€21,99",
+      "price": 21.99,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/c_crop,ar_1:1/v1738489260/Daisy_white_and_violet_dvy3v9.avif",
       "description": "A beautiful bouquet of white and violet Daisies.",
@@ -302,7 +302,7 @@
     {
       "id": 23,
       "name": "Pink Daisy",
-      "price": "€21,99",
+      "price": 21.99,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489260/Daisy_pink_wp6pcr.webp",
       "description": "A beautiful bouquet of pink Daisies.",
@@ -316,7 +316,7 @@
     {
       "id": 24,
       "name": "White Daisy",
-      "price": "€21,99",
+      "price": 21.99,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738700078/Daisy_white_taczb0_c_crop_ar_1_1_usazro.webp",
       "description": "A beautiful bouquet of white Daisies",
@@ -329,7 +329,7 @@
     {
       "id": 25,
       "name": "White and Yellow Daisy",
-      "price": "€21,99",
+      "price": 21.99,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738700804/White_and_yellow_Daisy_2_hfxvru.jpg",
       "description": "A beautiful bouquet of white and yellow",
@@ -342,7 +342,7 @@
     {
       "id": 26,
       "name": "Small Lavender",
-      "price": "€18,00",
+      "price": 18.00,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738699490/Lavender-Bouquet_bpiqdl_c_crop_ar_1_1_znyuvl.webp",
       "description": "A small bouquet of fresh lavender.",
@@ -355,7 +355,7 @@
     {
       "id": 27,
       "name": "Medium Lavender",
-      "price": "€20,00",
+      "price": 20.00,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489261/Lavender_mix_fwjkmv.webp",
       "description": "A medium bouquet of fresh lavender.",
@@ -369,7 +369,7 @@
     {
       "id": 28,
       "name": "Large Lavender",
-      "price": "€25,00",
+      "price": 25.00,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738699967/Lavender_large_lgekzi_c_crop_ar_1_1_ve7mez.jpg",
       "description": "A large bouquet of fresh lavender.",
@@ -382,7 +382,7 @@
     {
       "id": 29,
       "name": "Peony Pink",
-      "price": "€15,00",
+      "price": 15.00,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/c_crop,ar_1:1/v1738489261/Peony_Pink_g3oqtq.jpg",
       "description": "A beautiful bouquet of pink Peonies.",
@@ -395,7 +395,7 @@
     {
       "id": 30,
       "name": "Peony Red",
-      "price": "€15,00",
+      "price": 15.00,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489261/Peony_red_ioml2n.webp",
       "description": "A beautiful bouquet of red Peonies.",
@@ -408,7 +408,7 @@
     {
       "id": 31,
       "name": "Peony White",
-      "price": "€15,00",
+      "price": 15.00,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738700027/Peony_white_bkkn5i_c_crop_ar_1_1_e9ypan.jpg",
       "description": "A beautiful bouquet of white Peonies.",
@@ -421,7 +421,7 @@
     {
       "id": 32,
       "name": "Sunflower Mix",
-      "price": "€20,00",
+      "price": 20.00,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489263/Sunflower_mix_heorgt.webp",
       "description": "A beautiful bouquet of Sunflowers.",
@@ -434,7 +434,7 @@
     {
       "id": 33,
       "name": "Sunflower ",
-      "price": "€20,00",
+      "price": 20.00,
       "quantity": 1,
       "imageUrl": "https://res.cloudinary.com/duu9km8ss/image/upload/v1738489263/Sunflower_olls8f.webp",
       "description": "A beautiful bouquet of Sunflowers.",
