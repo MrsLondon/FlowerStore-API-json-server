@@ -460,10 +460,9 @@
       }
     }
   ],
-
-  "orders": [
+  
+"orders": [
     {
-      "id": 1,
       "userId": 1,
       "orderDate": "2025-02-08T10:00:00Z",
       "items": [
@@ -475,16 +474,14 @@
         }
       ],
       "totalPrice": "€20,00",
-      "status": "pending",
       "shippingAddress": {
-        "street": "123 Elm St",
+        "fullName": "John Doe",
+        "address": "123 Elm St",
         "city": "Berlin",
-        "postalCode": "10115"
+        "zipCode": "10115"
       },
-      "paymentStatus": "paid",
-      "createdAt": "2025-02-08T10:00:00Z",
-      "updatedAt": "2025-02-08T10:00:00Z"
+      "paymentStatus": "paid"
     }
-    
   ]
 }
+
