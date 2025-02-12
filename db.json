@@ -474,7 +474,7 @@
           "price": 20.00
         }
       ],
-      "totalPrice": "€20,00",
+      "totalPrice": 20.00,
       "shippingAddress": {
         "fullName": "John Doe",
         "address": "123 Elm St",
