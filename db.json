@@ -471,7 +471,7 @@
           "productId": 33,
           "name": "Sunflower",
           "quantity": 1,
-          "price": "€20,00"
+          "price": 20.00
         }
       ],
       "totalPrice": "€20,00",
